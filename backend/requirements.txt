@@ -4,3 +4,4 @@ jaclang==0.7.16
 mtllm[openai]==0.3.0
 sqlalchemy
 exa_py==1.0.17
+rich==13.7.1
